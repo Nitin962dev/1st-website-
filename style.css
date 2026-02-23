@@ -10,11 +10,10 @@ ul{
     color: green;
     font-size: 18px;
 }   
-.ds{
-    list-style-type: square;    
-    color: purple;
-}
-h1{
-    color: orange;
-    font-size: 30px;
+button{
+    background-color: yellow;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
 }
