@@ -10,3 +10,7 @@ ul{
     color: green;
     font-size: 18px;
 }   
+.ds{
+    list-style-type: square;    
+    color: purple;
+}
